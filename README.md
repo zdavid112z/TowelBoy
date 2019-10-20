@@ -6,10 +6,10 @@ Link to the Ludum Dare page: http://ludumdare.com/compo/ludum-dare-32/?action=pr
 
 # Screenshots
 
-![alt text](https://raw.githubusercontent.com/zdavid112z/TowelBoy/master/public/ss0.jpg)
+![alt text](https://raw.githubusercontent.com/zdavid112z/TowelBoy/master/public/ss0.png)
 
-![alt text](https://raw.githubusercontent.com/zdavid112z/TowelBoy/master/public/ss1.jpg)
+![alt text](https://raw.githubusercontent.com/zdavid112z/TowelBoy/master/public/ss1.png)
 
-![alt text](https://raw.githubusercontent.com/zdavid112z/TowelBoy/master/public/ss2.jpg)
+![alt text](https://raw.githubusercontent.com/zdavid112z/TowelBoy/master/public/ss2.png)
 
-![alt text](https://raw.githubusercontent.com/zdavid112z/TowelBoy/master/public/ss3.jpg)
+![alt text](https://raw.githubusercontent.com/zdavid112z/TowelBoy/master/public/ss3.png)
